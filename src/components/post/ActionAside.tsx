@@ -140,8 +140,8 @@ function DonateContent() {
           className="object-cover"
           width={300}
           height={300}
-          src={sponsor.wechat}
-          alt="微信赞赏码"
+          src={sponsor.afdian}
+          alt="爱发电赞助"
           loading="lazy"
           decoding="async"
         />
