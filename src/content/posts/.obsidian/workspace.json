@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-csp-j-2-summary.md",
+                "file": "site-move.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-csp-j-2-summary"
+              "title": "site-move"
             }
           }
         ]
@@ -164,8 +164,8 @@
   },
   "active": "68e76dbd6659ebf5",
   "lastOpenFiles": [
-    "site-move.md",
     "2024-csp-j-2-summary.md",
+    "site-move.md",
     "2024-10-25.md"
   ]
 }
